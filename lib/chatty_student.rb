@@ -1,4 +1,6 @@
 class CattyStudent < Student 
   
-  def hello
+  def hello 
+    super
+    puts 
     
